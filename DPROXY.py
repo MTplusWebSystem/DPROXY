@@ -74,7 +74,7 @@ def Main():
 	for k,v in ipranges.items():
 		print('{',k,' : ',v,'}',end='\n')
 	dicts=[frstarray,secondarray,lista,lista2 ,lista3,lista4]
-	choose = int(input('\033[1;31;3m\n'*30+logo+'\033[1;32;3m \n\n MTPLUSWEBSYSTEM agradece! Selecione os ipranges cloudflare \n 1 ->> Lista 1\n 2 ->> lista 2 \n 3 ->> lista 3\n 4 ->> lista 4 Flont\n 5 ->> lista 5 Flont\n 6 ->> lista 6 Flont: '.title()))-1
+	choose = int(input('\033[1;33;3m\n'*30+logo+'\033[1;32;3m \n\n MTPLUS agradece! Selecione os ipranges cloudflare \n 1 ->> Lista 1\n 2 ->> lista 2 \n 3 ->> lista 3\n 4 ->> lista 4 Flont\n 5 ->> lista 5 Flont\n 6 ->> lista 6 Flont: '.title()))-1
 	cidrs_list = dicts[choose]
 	for cidr in cidrs_list:
 			iprange=[]
