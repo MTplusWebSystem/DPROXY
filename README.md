@@ -8,7 +8,16 @@
 
 Instalação 
 
+##### Clone o repositório 
 ```
 git clone https://github.com/MTplusWebSystem/DPROXY/
 
+```
+Faça Instalação das dependências 
+```
+cd DPROXY; chmod 775 install.sh; ./install.sh
+```
+Execute o programa 
+```
+python DPROXY.py
 ```
