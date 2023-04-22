@@ -1,6 +1,6 @@
 # DPROXY
 
-![DPROXY](path/to/https://i.imgur.com/3W0VGzR.jpeg)
+![DPROXY](https://i.imgur.com/3W0VGzR.jpeg)
 
 
 <br>
