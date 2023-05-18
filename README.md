@@ -19,5 +19,5 @@ cd DPROXY; chmod 775 install.sh; ./install.sh
 ```
 Execute o programa 
 ```
-python DPROXY.py
+python DPROXy.py
 ```
